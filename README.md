@@ -4,7 +4,7 @@
 - [Context](#Context)
 - [Objective](#Objective)
 - [Methodology](#Methodology)
-- [Solutions](https://github.com/Chicong00/AEMR-Solutions)
+- [Solutions](#Solution)
 ***
 
 ## Context 
@@ -42,3 +42,6 @@ b. Energy Losses and Market Reliability
 ## METHODOLOGY
 
 SQL to extract the data from the database and answer a series of queries, and Power BI for data visualization
+
+## SOLUTION
+[Solution](https://github.com/Chicong00/AEMR-Solutions)
