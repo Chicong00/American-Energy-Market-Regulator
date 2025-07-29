@@ -44,4 +44,5 @@ b. Energy Losses and Market Reliability
 SQL to extract the data from the database and answer a series of queries, and Power BI for data visualization
 
 ## SOLUTION
-[Solution](https://github.com/Chicong00/AEMR-Solutions)
+- [SQL](https://congvocom.wordpress.com/project/project-1/american-energy-market-regulator/)
+- [Visualization](https://congvocom.wordpress.com/project/project-1/aemr-power-bi/)
